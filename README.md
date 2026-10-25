@@ -54,9 +54,6 @@ Full commands are in [setup_commands.md](setup_commands.md).
 - The EC2 instance and all related AWS resources were terminated after the project to avoid charges
 - Credentials in the code are placeholders (`YOUR_PASSWORD`)
 
-## License
-
-MIT
 ---
 ## 🌟 Author
 **Viraj Satpute**  
